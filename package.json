@@ -1,0 +1,8 @@
+{
+  "name": "banking-path-rewrite-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free account service and API gateway path rewriting demo",
+  "scripts": { "start": "node start.js", "check": "node --check account-service.js && node --check gateway.js && node --check start.js" },
+  "engines": { "node": ">=18" }
+}
