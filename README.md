@@ -10,7 +10,7 @@ In this folder, run:
 npm.cmd start
 ```
 
-Open http://localhost:8080 to create and list accounts. Press Ctrl+C in the terminal to stop.
+Open http://localhost:8080 to create and list accounts. 
 
 ## Routes
 
